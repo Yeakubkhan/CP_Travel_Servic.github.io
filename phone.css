@@ -22,4 +22,28 @@
     padding: 4px 8px;
     border-radius: 5px;
   }
+
+  /*2 no section code*/
+
+  .item-a {
+    margin: 4%;
+  }
+  .title-a {
+    font-size: 30px;
+  }
+  .title-b {
+    font-size: 25px;
+  }
+  .li-a {
+    font-size: medium;
+  }
+  .pragraph {
+    font-size: medium;
+  }
+  .pragraph-a {
+    font-size: medium;
+  }
+  .pragraph-b {
+    font-size: large;
+  }
 }

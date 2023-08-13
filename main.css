@@ -21,4 +21,27 @@
     padding: 5px 10px;
     border-radius: 4px;
   }
+
+  /*2 no section code*/
+
+  .item-a {
+    margin: 6%;
+  }
+  .title-a {
+    font-size: 40px;
+  }
+  .item-a-a {
+    flex-direction: column;
+  }
+  .div-b {
+    width: 100%;
+    margin: 0%;
+    margin-top: 10%;
+  }
+  .title-b {
+    font-size: 30px;
+  }
+  .pragraph-b {
+    margin: 7% 0%;
+  }
 }
